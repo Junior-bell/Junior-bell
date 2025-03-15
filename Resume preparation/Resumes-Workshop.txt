@@ -1,0 +1,277 @@
+========  Common Points===============
+=>No fixed format for resume..
+=> Number of pages  ( Doc should be short and sweet document)   (1 side printing)
+          fresher  -> 2-3 pages (max)        
+	  1 year of experience  -> 2-3 pages (max)
+	  2 years of experience  -> 3-4 pages (max)
+	  3/4/5 years of experience  -> 4-5 pages (max)
+=> Professional fonts     Arial, verdana , Consolas, TimesNewRoman , callibri 
+=> Font sizes :: as required     (12-16  :: normal text)
+                                                      (14-18 (B) ::  side headings)
+						      (20-24 (b)  :: main heading)
+=>No border
+=> Justify the paragraphs
+=> Uniform Look Through out the document..
+=>No Spell mistakes  and No Grametical  mistakes
+=>As as fresher  ::  CV  (More academic details)
+=>As Experienced  :: Resume or CV (More Proffessional Information)
+
+=============Section 1   (HEader Section) ==========================
+=> name ::  <first name>  <surname>
+=> Java certification  Logo (o  or more)  (if  there)
+=>Write java certification exams after joining the company ... when u r in free pool (bench)
+       https://en.wikipedia.org/wiki/Oracle_Certification_Program   (     Certification exams list )
+       https://www.brainbench.com/xml/bb/common/testcenter/freetests.xml  (Free Certifications)
+       http://www.dump4exam.com/ocjp.html  (for ocjp dumps)
+=> Java fresher ::    Amcat, Elitmus , hackerrank  exams
+=> Java experience ::       java certifications logos + Scrum(agile) logos  (0 or more)
+----------------------------------------------------------------------------------------------------------------------------------------------
+   ================  Section 2     Career Objective  for Fresher ===================  (not required for experienced)
+    -->  collect  content  from internet / friend   CV  but  understand its   meaning  to face the  counter  queries
+Q)Down the line , after 5 years where want see u r self?
+    ans1) Now i  am java developer.. but i want to become  java full stack developer 
+    ans2) Want to become java subject expert
+    ans3)  want to become  key player/resource in the Organization
+
+   ================  Section 2     Experience Summary for Experienced ===================  (not required for Fresher)
+       -->  place  minimum   6- 10 points  about  Experience summary  , In that   70% on  technology  stack    and   30% on  personality   
+
+ Why  should  we hire u ?    
+   Ans) In a given  situation, i can put my best efforts to work for organization which helps me and 
+         organization to grow  using my technical, interpersonal and leadership qualities
+
+  ================ section  3   (Achievements)   for  fresher======== 
+          -> keep   1 or more  academic achievements  ,  if  do not have cooked up  1 or 2  achievements
+  ================ section  3   (Achievements)   for  Experienced======== 
+          --> keep  4-5 points    , In that  3 points   on  career related achievements  and  2 points on   academic  achievements
+    
+What is u r weakness?
+    Ans1) if i struck up somewhere in the work.. i will spend more time for perfection with out worrying about
+              deadlines  and  other  taks that are assigned
+    Ans2)  Being from village , my  english vocabulary is not so good ,i want to improve
+    Ans3)  Lazy to get up in the mornings.. but i want to resolve it to utilize day time more effectively..
+    Ans4)  I am bit sensitive or  overreacting person .. I want to make my self strong and more workholic person 
+
+======================= section 4  for   the freshers   (Strengths) =================
+          write  few  points  about     u r  personality
+
+  ========================== SEction 4 for  experienced  (Experience  Profile)============
+           --> keep  companies  info  last to  first  including  month and year  details
+          note::   Better  to  show  experience as   contract employee in  big companies   when  u  r arranging the docs
+          note::   if  any  company allowing only  perminent  job role  people  to apply  we need to keep original  company  on  whom  u got the  docs
+  ========================== Section 5  Academic  profile for  fresher =================
+        ->  keep  highest  qualification to  lowest qualification  in  the  form  table
+        ->  if  academic percentages are good  highlight  them otherwise  hide them
+  ========================== Section 5  Academic  profile for  Experienced =================
+       -->  Only One line   specifying  about  highest  qualification  either graduation /post graduation  , No  need of keeping table
+
+    Q)why  there is  downfall in u r academic percentages?
+     Ans) initially , i used mug up the answers... later i started understanding and analyzing the subject.. which
+     effected my academic percentages...
+
+      Q)why  there is  growth in u r academic percentages?
+          Ans)   initially i studied  in the  small village /small town  , there  less competition and less facilities  
+                       for graduation  i  moved  city where i found more  facilities and  competition  
+
+      Q) Why did u take much time to complete u r graduation?
+             a) Financial problem in  the family .. did job for few years to support family
+	     b) Main Family member is expired --Taken care of family business
+
+      Q)  Why there are gaps in u r academics   ?
+               Above reasons +
+	                 Social work  (or) spiritual life (or)  Entrance exam preparation   (or) govt job preparation
+
+       Q) why are coming to IT industry as non-IT graduate?
+                Ans1) From the childhood i am interested  in computers.. but i could not get engineering seat in that stream.. but
+		          from the beginning  i was learning IT related technologies.. So i am pursuing  IT career.
+             Ans2)  People misguided me  while choosing courses of engineering because of IT sector recession ... But i later
+	             realized      IT is feture .. So i am pursuing IT career
+             Ans3) While using mobile Apps like  Flipkart.. i am very impressed .. i felt like entire word in
+	             my pocket.. So i attracted to IT sector
+		     note ::: lastly off course .. there are more  openings and packages in IT sector... even quality life..
+	        
+		natarazjavaarena --->FB group..
+
+                --------------------------------section 6--------------------------------Fresher Technical Profile---------------
+	         
+	       =>   Core java + adv.java + spring/spring boot f/w +oracle+tools+server+...   (to place in resume)
+	       = > CRT  (Aptitude +reasoning + verbal  +basic maths +puzzles and etc -- soft skills)  (Not required to place in resume)
+
+             As a Fresher  how do u rate u r self in java ?
+	        Ans )  on the scale 1 to 10  , I rate my rate my self   7  (choose b/w 5.5 to 8.5)
+
+		As experienced  how do u rate u r self in java ?
+	        Ans )  on the scale 1 to 10  , I rate my rate my self   8  (choose b/w 7 to 9.5)
+
+		Can u work on new Technology which is relevant to java?
+		     Ans)  get name of the Technology ... then accept it or reject it.
+
+note:: if u have done any internship  with any company as fresher then we can
+             put it as experience  .. (but company do not considers it)
+note::    As experienced  person   ,  we  can  apply for the jobs   as java domain job seeker  i.e  we can  demand to work only in  java domain  jobs
+                 As    java fresher   we  can not  try  u  r  self     as  java  engineer and  u can  not  demand  job in java domain  i.e  as as fresher  we must be
+                 ready to work in any  domain
+
+-------------------------------section  6    Technical profile  for   experienced --------------------------------
+          ->  for  3/4  years of  experience  in java  ,  we need to specify   java , jse  technologies ,  jee technologies, servers, angular/reactjs , spring,spring boot,
+                web services ,  aws cloud ,    java tools , devops  tools  and etc...
+          --> No  need of  learning  and specifying    softskills 
+   
+  How to evaluate  the number  of  years  of experience to claim?       
+      case1:: MCA fresher 
+                       Graduation  +  3  years  of experience
+      case2::  M.sc/M.Tech  Fresher
+                      Graduation  +  2  years  of experience
+        
+      case3:: after M.Tech   2 years gap 
+                      M.tech  + 2 years  of experience
+                     B.tech  +   4  years of experience
+       case4 ::   After b.tech  tried  govt job  6  years         
+                      initial 1/2  years Non-IT Experience
+                      last  5/4  years   IT  Experience
+       case5  ::  2013   B.tech pass out
+                 In  11 years  of experience    initial   7  years   in  Non-IT
+                last 4 years     in IT 
+       case6 ::   B.sc/B.com/BA/...   +  2 years gap
+                    --> 2  years  gap as experience
+       case7:: after 10+2  two  years gap  and  current b.tech fresher
+                   try as  B.tech fresher ,  gap after the 10+2  can  not  be shown as the experience
+                 only  the gaps that are after  graduation /post graduation can be shown as the experience  
+        
+   why same company has not recruited u as employee from the internship ?
+        Ans)  I want to learn and work on latest technologies ... in Java domain..
+	        But they offered job on old technologies.  (like struts, jsf,  Soap based webservices,....)
+                 
+    why did u not  joined in the other  company  which  offered u  job?
+         Ans)  I want learn and work on latest technologies ... in Java domain..
+	        But they offered me job on old technologies.
+         
+  we can get experience  docs in two ways
+        a)  As Permanent Employee   (Good but will not work out some times)
+	 b) As Contract employee of MNC   ( will work out most of the times)
+
+	   Avoid going to   Accenture ,  infosys , MicroSoft, TCS,IBM ,.....
+
+	   http://www.mca.gov.in/  (To check wheather company is registered or not?)
+
+ What about bank statements?
+   =>manage on u r own by depositing money into private sector bank account..
+       through  Consultancy company reflecting company name or salary word
+         int the statement..  (start  this  process before 8 months of  job trails)
+
+  How many companies  to  show in the  experience?
+   =>  upto 3 to 4 yeas 1 company ok
+    =>  more than 3/4 years  better to  show two  companies
+     (note:: Min 1/1.5 years of experience in every company makes u r profile
+       as stable profile)
+
+   How to manage more &more gap (above 4/5 years) as experience?
+       Ans) divide exp into  
+                  a) relevant experience  (IT experience)
+		   b) irrelevant experience  (Non-IT experience)
+		   
+  =================Section  7================  Projects  =============================
+         note::   The way  we keep information  about projects in the resume  is going  to  be same  for  both fresher and  experienced ,  the only  thing that
+                         changes is    no.of projects we keep
+
+      Fresher ::    IT /CS background  -->  2 s/w projects   1 major + 1 mini
+                            NoN IT Engg -->  2 Projects  1 core  area project + 1 s/w project
+			      Non IT -Non Engg(BCA,B.sc) --> 1 s/w project
+			      
+			       To get Projects :
+			        ---------------------
+				  a) U r engg /MCA projects
+				  b) From  engg friend
+				  c) from GITHUB.com  and etc..
+                                        d)  from  NareshIT  JRTP batch
+
+    Experienced ::     1 year ::   1 Project                      (any Project max 10 months)
+                                    2 years ::  2- 3 projects
+				    3 year  :: 3-4 projects 
+				    4 year  ::  4-5 projects
+
+				    To get these Projeccts
+				    -------------------------------
+                                   a) NareshIT  Realtime Project batch   (best)
+				   b) Working  friend or relative
+				   c) Github.com
+				   d) Class room MiniProjects Enhacements..
+
+  Order of  keeping content   in Project profile
+            a) Project title  & other information
+            b)  Technical Stack
+            c)  Brief  Description about the project in 2 or 3 paragraphs
+            d)  roles and responsibilities
+
+=============section  7   person profile ============================
+   #  write   personal info
+
+HR  Interview questions for experienced
+===================================
+    Q)After  how many days u  can join in my company ?
+             ans) In most of companies  2-3 months   notice period will be there , So u  can join the  in company once the  notice period is completed
+
+    Q) why are u leaving existing company?
+                 ans)  To  work  in new   projects  in which   new technologies and  frameworks will be used
+
+    q) Why should we hire u?  (or)  what  makes u  different from others ?
+
+
+    Q)  are u ready to relocate ?
+            A) yes 
+
+    q) What is expected CTC?    CTC :: Cost To company --Per Anum Salary
+              =>  30% to 50% hike on existing CTC   (Good performence)
+	      =>   30% 70 %  hike on existing CTC   (Best performence)
+	         Existing CTC
+                    Fresher ::  3.0/3.5L
+	           1+ years of experienced ---->  3.5L to  4.5L
+		   2+ years of experienced  --->  4.5L  to 6.5L
+		   3+ years of experienced  -->  6.5L  to  9.0L
+                      4+ years of experienced  -->  9.0L  to  12.0L
+    
+   Q) what is take home salary  ?   (per month  salary)
+               CTC/12  -    20% of CTC
+
+   HR Questions for  FReshers
+   =======================
+     Q)  Down the line 10 years, where u want to see u r self?
+     Ans)
+
+     Q)  What is u r weakness ?
+
+     Q) Introduce u r self or Tell about ur self?
+
+     Q)  Most imp incident in u r life?
+
+     Q) Why did u choose our company?
+
+     Q) why should we hire u ?
+
+
+
+
+              
+
+
+
+
+
+
+	        
+
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+	  

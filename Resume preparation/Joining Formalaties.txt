@@ -1,0 +1,204 @@
+
+===================
+Resume Preparation
+===================
+
+Section-1 : Contact Details (Name, Email, Phno)
+
+Section-2 : Professional Summary (Expertize)
+
+			- Technologies
+			- Tools
+
+Section-3 : Experience Summary  (For freshers not required)
+
+			- Current Company
+			- Previous Company				
+
+Section-4 : Technical Skills	
+
+			Backend : Java, J2EE, SpringBoot & Microservices
+			Frontend : Angular
+			Databases : Oracle & MySQL
+			DevOps Tools: Maven, git, docker, k8s, jenkins etc..
+			Cloud : AWS
+			OS : Windows & Linux
+
+Section-5 : Education Qualification (Highest)	
+
+Section-6 : Projects Summary
+
+				- Tech Stack
+				- Description
+				- Roles & Responsibilities
+
+Now: You can keep any ecommerce project from below list
+
+			a) https://www.nykaa.com/
+			b) https://www.milton.in/
+			c) https://www.decathlon.in/
+			d) https://www.godrejinterio.com/
+
+Section-7 : Signature section
+
+==============================
+How to show gap as experience 
+==============================
+
+2024 => Fresher => Prepare fresher resume
+
+2023 => 1 year gap => Prepare resume with 1 year exp
+
+2022 => 2 years gap => Prepare resume with 2 years exp
+
+2021 => 3 years gap => Prepare resume with 3 years exp
+
+2020 => 4 years gap => Prepare resume with 3 years exp (1 year for training)
+
+
+==================================
+Documents Required for experience
+==================================
+
+1) Offer Letter
+
+2) Hike Letters
+
+3) Payslips (3 months or 6 months)
+
+4) Bank Statements (6 months)
+
+5) Form 16
+
+6) Experience Letter / Service Letter
+
+7) Reliving Letter
+
+==================================
+Don'ts in Software Company
+==================================
+
+1) Don't discuss your salary details with your team members 
+	& don't ask about your team members salary also.
+
+2) Don't send any company / project / client related docs to your personal mails.
+
+3) Don't share your fake exp details with team members.
+
+4) Don't use social media websites in company provided systems.
+
+5) Don't abscond from company.
+
+==========================
+Do's in software company
+==========================
+
+1) Maintain friendly relationship with your team members.
+
+2) Every month setup one to one meeting with manager to discuss your performance.
+				
+				- Showcase your work
+				- Understand your roles from manager
+				- Understand your responsibilities from manager
+				- Any improvements required check with manager
+
+3) Provide KT(Knowlege Transfer) sessions for new team members.
+
+4) Conduct internal trainings on new technologies for your team.
+
+
+====================
+Joining Formalities
+====================
+
+1) Company Onboarding Process
+
+	- Meet On Boarding HR on joining date
+
+	- Fill up Employment documents & submit to HR dept
+
+	- Collect ID card (Badging section)
+
+	- Collect Laptop (IT dept)
+
+	- Collect salary account & Update it in HR portal
+
+	- Attend Induction Program (HR will explain company policies)
+
+2) Meeting with RM (Resource Manager)
+
+	- RM will identify openings in the projects based on your skills
+
+	- RM will schedule project interview / client interview
+	   (to check your skills matching with project tech stack)
+
+    - Attend project interview	   
+
+    - If you get selected, then project allocation
+
+    - If you get rejected, then RM will find another project opening
+
+
+3) Project Onboarding	
+
+	- Meeting with Manager & Lead
+
+	- Meeting with team
+
+	- Manager / Lead will plan KT for you
+
+	- Attend KT sessions
+
+	- Tasks assignment
+
+	- Join Meetings 
+			 - Scrum
+			 - Backlog Grooming
+			 - Sprint Planning
+			 - Retrospective
+
+
+===================
+Exit Formalities
+===================
+
+=> After getting offer letter from other company, setup one to one meeting with Manager and tell to manager that u got offer from other company.
+
+=> Submit the resignation (putting papers) in HR portal.
+
+=> HR team will send email regarding notice period and last working date.
+
+=> During Notice period, give KT to team members.
+
+=> On last working date submit => ID card, laptop and company belongings.
+
+=> On last working date, give lunch party to your team members.
+
+=> Download all documents "payslips + form 16 + employment letter + reliving letter" and send to your personal email.
+
+Note: After exit, with in one month our Full & Final Settlment will be completed.
+
+==================================================================================
+
+1) Self Introduction
+
+2) Roles & Responsibilities 
+
+3) Challenges faced in the project
+
+4) Multi Threading real-time scenario
+
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
