@@ -2,10 +2,10 @@
 <h3 align="center">🚀 Full Stack Java Developer | 📍 Pune, India</h3>
 
 - 🔭 I’m currently building **Java Spring Boot CRUD projects**
-- 🌱 I’m currently learning **Spring Boot, Linux, and Cybersecurity**
+- 🌱 I’m currently learning **Spring Boot, Linux, and Fullstack development**
 - 👯 I’m looking to collaborate on **Java backend and full-stack projects**
 - 🤝 I’m looking for help with **getting a fresher Java developer job**
-- 💬 Ask me about **Java, Spring Boot, Oracle DB, Maven**
+- 💬 Ask me about **Java, Spring Boot, Oracle DB, Maven,React**
 - 📫 How to reach me: **waghshivam322@gmail.com**
 - ⚡ Fun fact: I love learning by building real-world projects and breaking down big problems.
 
