@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently building **Java Spring Boot CRUD projects**
 - 🌱 I’m currently learning **Spring Boot, Linux, and Cybersecurity**
-- 👯 I’m looking to collaborate on **Java backend and full-stack projects*
+- 👯 I’m looking to collaborate on **Java backend and full-stack projects**
 - 🤝 I’m looking for help with **getting a fresher Java developer job**
 - 💬 Ask me about **Java, Spring Boot, Oracle DB, Maven**
 - 📫 How to reach me: **waghshivam322@gmail.com**
